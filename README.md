@@ -1,4 +1,4 @@
-# vue2
+# vue2 vue2商品列表组件封装
 
 ## Project setup
 ```
